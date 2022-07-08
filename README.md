@@ -15,6 +15,9 @@
 	<a href="https://t.me/StetErik" target="blank">
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" alt="steterik" height="40" width="40" />
 	</a>
+	<a href="https://wa.me/+996700200596" target="blank">
+		<img align="center" src="https://www.besplatnyeprogrammy.ru/wp-content/uploads/WhatsApp.png" alt="steterik" height="40" width="40" />
+	</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
