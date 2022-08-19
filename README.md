@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stet Erikov</h1>
+<h1 align="center">Hi 👋, I'm Stet Erik</h1>
 <h3 align="center">Front-End React Developer</h3>
 
 - 💻 My projects are available at [https://steterik.github.io/portfolio/](https://steterik.github.io/portfolio/)
