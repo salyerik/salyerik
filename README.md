@@ -23,7 +23,7 @@
 	</a>
 	&nbsp;
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-		<img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="express" width="40" height="40"/>
+		<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="40" height="40"/>
 	</a>
 	&nbsp;
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
