@@ -1,8 +1,8 @@
 <h2 align="left">Hello 👋, my name is Stet Erik and I'm a FrontEnd Developer.</h2>
 
-- 💻 My portfolio [https://steterik.github.io/portfolio/](https://steterik.github.io/portfolio/)
+- 💻 My portfolio - [https://steterik.github.io/portfolio/](https://steterik.github.io/portfolio/)
 
-- 📫 My email **steterikcode@gmail.com**
+- 📫 My email - **steterikcode@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
