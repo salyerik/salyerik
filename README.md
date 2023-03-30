@@ -1,6 +1,6 @@
-<h2 align="left">Hello 👋, my name is Stet Erik and I'm a FrontEnd Developer.</h2>
+<h2 align="left">Hello 👋, my name is Stet Erik and I'm a Full Stack JS Developer.</h2>
 
-- 💻 My portfolio - [https://steterik.github.io/portfolio/](https://steterik.github.io/portfolio/)
+- 💻 My portfolio - [https://steterik.github.io/portfolio/](https://steterik.github.io/portfolio)
 
 - 📫 My email - **steterikcode@gmail.com**
 
