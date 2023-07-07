@@ -1,8 +1,8 @@
-<h2 align="left">Hello 👋, my name is Stet Erik and I'm a Full Stack JS Developer.</h2>
+<h2 align="left">Hello 👋, my name is Saly Erik and I'm a Full Stack JS Developer.</h2>
 
-- 💻 My portfolio - [https://steterik.github.io/portfolio/](https://steterik.github.io/portfolio)
+- 💻 My portfolio - [https://salyerik.github.io/portfolio/](https://salyerik.github.io/portfolio)
 
-- 📫 My email - **steterikcode@gmail.com**
+- 📫 My email - **salyerikcode@gmail.com**
 
 <h3 align="left">My skills:</h3>
 <p align="left">
@@ -64,13 +64,13 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="mailto:steterikcode@gmai.com" target="_blank">
+	<a href="mailto:salyerikcode@gmai.com" target="_blank">
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="40" width="40" />
 	</a>&nbsp;
 	<a href="https://wa.me/+996700200596" target="_blank">
 		<img align="center" src="https://www.besplatnyeprogrammy.ru/wp-content/uploads/WhatsApp.png" alt="whats-up" height="40" width="40" />
 	</a>&nbsp;
-	<a href="https://linkedin.com/in/steterik" target="_blank">
+	<a href="https://linkedin.com/in/salyerik" target="_blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="40" />
 	</a>
 </p>
